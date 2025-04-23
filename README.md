@@ -1,44 +1,75 @@
-# Hi there, I'm Nguyen Duc Ninh! 👋
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+</div>
 
-Welcome to my GitHub profile! I'm passionate about technology, coding, and continuous learning. Here you'll find a collection of my projects, contributions, and experiments. Feel free to explore and connect with me!
+###
 
-## About Me
+<div align="center">
+  <a href="https://www.facebook.com/dninh.vuive/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo" />
+  </a>
+  <a href="https://www.instagram.com/nguyenducninhh/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
+  </a>
+</div>
 
-- 🌱 I’m currently learning **Duy Tân University**
-- 📫 How to reach me: **nguyenducninh210303@gmail.com**
-- ⚡ Fun fact: **Straight Win**
+###
 
-## Skills
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ninh2103.ninh2103" />
+</div>
 
-### Programming Languages
-<p>
-  <img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/js-icon.svg" alt="Javascript Icon" />
-  <img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/typescript-icon.svg" alt="Typescript Icon" /> 
+###
+
+<h1 align="center">Hi there, I'm Ninh 👋</h1>
+
+###
+
+<h3 align="left">👨‍💻 About Me</h3>
+
+<p align="left">
+  I'm a passionate web developer from Vietnam.<br><br>
+  - 🔭 I’m currently working on a social media web app<br>
+  - 🌱 I’m currently learning more about backend development with NestJS<br>
+  - ⚡ Fun fact: I enjoy designing beautiful UIs with TailwindCSS
 </p>
 
-### Frameworks and Libary
-<p>
- <img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/react-icon.svg" alt="ReactJS Icon" />
-  <img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/nextjs-icon.svg" alt="NextJS Icon" /> 
-</p>
+###
 
-### Tools or Others
-<p>
-  <img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/vscode-icon.svg" alt="VSCode Icon" />
-</p>
+<h3 align="left">🛠 Tech Stack</h3>
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github" />
+</div>
 
-## Connect with Me
+###
 
-- [FaceBook](https://www.facebook.com/dninh.vuive/)
-- [Instagram](https://www.instagram.com/nguyenducninhh/)
-  
-## GitHub Stats
+<h3 align="left">📊 My GitHub Stats</h3>
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ninh2103&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ninh2103&layout=compact&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ninh2103&show_icons=true&theme=radical" height="200" alt="github stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninh2103&layout=compact&theme=radical" height="140" alt="top langs" />
+</div>
 
 ---
 
-Thank you for visiting my GitHub profile! Have a great day! 😊
+<p align="center">🚀 Thank you for visiting my GitHub profile! Have a great day! 😊</p>
