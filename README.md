@@ -1,75 +1,82 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+  <h1>🚀 Welcome to Nguyen Duc Ninh's Tech!</h1>
+</div>
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer)](https://git.io/typing-svg)
+
 </div>
 
-###
+## 🛠️ Tech Stack
 
 <div align="center">
-  <a href="https://www.facebook.com/dninh.vuive/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo" />
-  </a>
-  <a href="https://www.instagram.com/nguyenducninhh/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
-  </a>
+  
+### Core Stack
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
 </div>
 
-###
+## 🎭 About Me
+
+- 🏗️ **Full‑stack architect** with expertise in scalable system architecture
+- 🎓 **Young innovator** (born 2003) passionate about emerging technologies
+
+- ⚽ Love football (Football enthusiast)
+
+- 📍 Live in Đà Nẵng, Việt Nam
+- 🗣️ Language: Tiếng Việt (native), Tiếng Anh (professional)
+
+## 💻 Skills & Expertise
+
+- 🎯 **Backend**: Designing and implementing scalable microservice architectures with NestJS.
+- 🎨 **Frontend**: Responsive web apps with Next.js
+- 🗄️ **Databases**: PostgreSQL, Prisma ORM, Redis cache
+- 📲 **Mobile**: React Native, Expo, TypeScript‑first development
+- 🧪 **Quality**: E2E/integration testing, performance profiling
+
+## 🗣️ Language
+
+- 🇻🇳 Tiếng Việt: Native
+- 🇺🇸 Tiếng Anh: Proficient in the work environment
+
+## 📫 Connect with Me
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ninh2103.ninh2103" />
+  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ninh2103)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nguyenducninh)
+[![Email](https://img.shields.io/badge/Email-me%40ninh.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me@ninh.dev)
+[![Website](https://img.shields.io/badge/Website-ninh.dev-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ninh.dev)
+
 </div>
-
-###
-
-<h1 align="center">Hi there, I'm Ninh 👋</h1>
-
-###
-
-<h3 align="left">👨‍💻 About Me</h3>
-
-<p align="left">
-  I'm a passionate web developer from Vietnam.<br><br>
-  - 🔭 I’m currently working on a social media web app<br>
-  - 🌱 I’m currently learning more about backend development with NestJS<br>
-  - ⚡ Fun fact: I enjoy designing beautiful UIs with TailwindCSS
-</p>
-
-###
-
-<h3 align="left">🛠 Tech Stack</h3>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github" />
-</div>
-
-###
-
-<h3 align="left">📊 My GitHub Stats</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ninh2103&show_icons=true&theme=radical" height="200" alt="github stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninh2103&layout=compact&theme=radical" height="140" alt="top langs" />
+  
+"Innovation is taking two things that already exist and putting them together in a new way." - Tom Freston
+
 </div>
 
----
+## 📊 GitHub Stats
 
-<p align="center">🚀 Thank you for visiting my GitHub profile! Have a great day! 😊</p>
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=ninh2103&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ninh2103&theme=tokyonight" alt="GitHub streak" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninh2103&layout=compact&theme=tokyonight" alt="Top Languages" />
+  
+</div>
